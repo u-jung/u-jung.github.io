@@ -21,4 +21,4 @@ Chaplin gilt als erster Weltstar des Kinos und zählt zu den einflussreichsten K
 > Das Leben kann ja so erfreulich und wunderbar sein.
 > Wir müssen es nur wieder zu leben lernen. 
 
-![Charlie Chaplin](Datei Charlie_Chaplin.jpg)
+<img src="Datei Charlie_Chaplin.jpg" />
