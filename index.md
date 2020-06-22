@@ -9,4 +9,14 @@ Chaplin gilt als erster Weltstar des Kinos und zählt zu den einflussreichsten K
 * gutmütiger Tramp und "großer Diktator"
 * kämpft sich mit dem Schraubenschlüssel durch Moderne Zeiten
 
-
+## Zitat
+> Es tut mir leid aber ich möchte nun mal kein Herrscher der Welt sein, denn das liegt mir nicht.
+> Ich möchte weder herrschen, noch irgendwen erobern,
+> sondern jedem Menschen helfen, wo immer ich kann.
+> Den Juden, den Heiden, den Farbigen, den Weißen.
+> Jeder Mensch sollte dem anderen helfen, nur so verbessern wir die Welt.
+> Wir sollten am Glück des andern teilhaben und nicht einander verabscheuen.
+> Haß und Verachtung bringen uns niemals näher.
+> Auf dieser Welt ist Patz genug für jeden, und Mutter Erde ist reich genug, um jeden von uns satt zu machen.
+> Das Leben kann ja so erfreulich und wunderbar sein.
+> Wir müssen es nur wieder zu leben lernen. 
