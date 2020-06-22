@@ -19,4 +19,4 @@ Chaplin gilt als erster Weltstar des Kinos und zählt zu den einflussreichsten K
 > Haß und Verachtung bringen uns niemals näher.
 > Auf dieser Welt ist Patz genug für jeden, und Mutter Erde ist reich genug, um jeden von uns satt zu machen.
 > Das Leben kann ja so erfreulich und wunderbar sein.
-> Wir müssen es nur wieder zu leben lernen.
+> Wir müssen es nur wieder zu leben lernen. 
